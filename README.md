@@ -1,7 +1,7 @@
 #Monsoon Android
 
-Your assignment is to build to-do-list Activity that looks like main_screen.png / show_edit_screen.png.
-All assets you need is included in assets folder.
+Your assignment is to build a to-do-list Activity that looks like the main_screen.png / show_edit_screen.png.
+All assets you need are included in assets folder.
 
 ###High level Features
 - Show a list of user inputed tasks
@@ -10,38 +10,38 @@ All assets you need is included in assets folder.
 - Store tasks
 
 ###Task
-User can create task with any number of characters and select color from pre-set color palette.
+User can create tasks with any number of characters and select color from pre-set color palette.
 
 Color palette will define card color and text color. 1 card color is tied with 1 text color.
 
-Color palette should have ability to add / remove color set easily.
+Color palette should have the ability to add / remove the color set easily.
 
 ###Add task
-On tap of edit icon on the bottom right corner on main_screen.png, show task input UI.
+When tapping the edit icon on the bottom right corner of the main_screen.png, show the task input UI.
 
 UI should include 
 - Text input field
 - Color palette picker
 - Submit button
 
-On selection of color picker, show what color is selected and state should be stayed.  You are going to decide what represetation should it be.
+On the selection of color picker, show what color is selected and the state should be persistent.  You are going to decide what representation it should be.
 
-Submit button should close input UI and update the list on main screen.
+Submit button should close the input UI and update the list on the main screen.
 
-Tap outside of input UI should close input UI and do not update the list.
+Tapping outside of the input UI should close it and not update the list.
 
 ###Remove task
-On tap of x button on card, delete a task.  After the delete, the list should not have the task.
+When tapping the 'x' button on the card, the task should be deleted.  After deletion, the list should not have the task.
 
 ###Store tasks
-Tasks should be stored so that when app is relaunched again, it should show what user added last time.
-Task list should look exactly same as what user input last time.  (Color, order)
+The Tasks should be stored so that when the app is relaunched again, it should show what user added the last time.
+The task list should look exactly the same as what the user entered last time.  (Color, order)
 
 ###Bonus Points
-1. Add animation on (A kind of animation is not specified.  You can show off your skills)
+1. Add animations: (The type of animation is not specified.  You can show off your skills)
    - Show input UI
    - Hide input UI
-   - New task added to list
+   - New task card added to list
 
-2. Swipe to remove task card.
-3. Share the task to Native Google calendar as event  (Consider how user input event time)
+2. Swipe horizontally to remove task card.
+3. Share the task to the native Google calendar app as an event  (Consider how the user enters the event time)
