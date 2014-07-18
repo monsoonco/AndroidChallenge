@@ -35,6 +35,7 @@ On tap of x button on card, delete a task.  After the delete, the list should no
 
 ###Store tasks
 Tasks should be stored so that when app is relaunched again, it should show what user added last time.
+Task list should look exactly same as what user input last time.  (Color, order)
 
 ###Bonus Points
 1. Add animation on (A kind of animation is not specified.  You can show off your skills)
