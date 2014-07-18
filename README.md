@@ -26,7 +26,7 @@ UI should include
 
 On the selection of color picker, show what color is selected and the state should be persistent.  You are going to decide what representation it should be.
 
-Submit button should close the input UI and update the list on the main screen.
+Submit button should add a task, close the input UI and update the list on the main screen.
 
 Tapping outside of the input UI should close it and not update the list.
 
