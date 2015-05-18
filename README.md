@@ -47,4 +47,4 @@ The task list should look exactly the same as what the user entered last time.  
 3. Share the task to the native Google calendar app as an event  (Consider how the user enters the event time)
 
 
-If you have any qustions, please feel free to contact emma@monsoonco.com.
+If you have any qustions, please feel free to contact emma@monsoonco.com. When you have completed the test, please send GitHub link to the person who administered you the test.
